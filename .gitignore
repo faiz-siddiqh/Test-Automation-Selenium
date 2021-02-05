@@ -3,6 +3,7 @@
 .Rapp.history
 
 bin
+.settings
 # Session Data files
 .RData
 
