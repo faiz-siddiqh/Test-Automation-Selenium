@@ -1,0 +1,20 @@
+{
+	"capabilities":
+		[
+			{
+				"browserName": "chrome",
+				"maxInstances": 1
+			},
+			{
+				"browserName": "firefox",
+				"maxInstances": 1
+			}
+		],
+			"port":5535,
+			"hubPort":4444,
+			"hubHost":"192.168.137.1",
+			"registerCycle":10000,
+			"register":true,
+			"timeout":30000,
+			"maxSession":2
+}
