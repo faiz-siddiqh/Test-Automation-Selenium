@@ -1,0 +1,12 @@
+16:30:49.950 DEBUG log4j2_demo.LoggingFile -Debug Message Logged
+16:30:49.956 ERROR log4j2_demo.LoggingFile -Error Message Logged
+16:30:49.956 FATAL log4j2_demo.LoggingFile -Fatal Message Logged
+16:30:54.992 DEBUG log4j_Practice.Logging_Console -Debug Message Logged
+16:30:54.995 ERROR log4j_Practice.Logging_Console -Error Message Logged
+16:30:54.995 FATAL log4j_Practice.Logging_Console -Fatal Message Logged
+16:31:33.180 DEBUG log4j2_demo.LoggingFile -Debug Message Logged
+16:31:33.183 ERROR log4j2_demo.LoggingFile -Error Message Logged
+16:31:33.183 FATAL log4j2_demo.LoggingFile -Fatal Message Logged
+16:31:38.079 DEBUG log4j_Practice.Logging_Console -Debug Message Logged
+16:31:38.082 ERROR log4j_Practice.Logging_Console -Error Message Logged
+16:31:38.118 FATAL log4j_Practice.Logging_Console -Fatal Message Logged
