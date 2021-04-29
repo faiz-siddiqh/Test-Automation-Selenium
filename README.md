@@ -1,6 +1,6 @@
-# Test-Automation
-A repository for all the Automation Testing projects and Practice files
+# Test-Automation-Selenium
+A repository for selenium features and their handson.
 
 
 ------------------------------------------------------------------------------------------------------------
-    In order to run the code,you need to download and configure libs and jars in project build path.
+    To run the code,please download and configure libs and jars in project build path.
