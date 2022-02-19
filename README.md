@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Test-Automation 
 
-Deprecated
+Deprecated [Not monitored]
 A repository for all the Automation Testing projects and Practice files
 =======
 # Test-Automation-Selenium
