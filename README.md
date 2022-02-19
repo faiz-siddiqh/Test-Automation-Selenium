@@ -1,4 +1,6 @@
-# Test-Automation
+# Test-Automation 
+
+Deprecated
 A repository for all the Automation Testing projects and Practice files
 
 
